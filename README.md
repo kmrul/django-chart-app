@@ -1,3 +1,3 @@
-# django-chart-app
-# django-chart-app
-# django-chart-app
+# django-chart-application
+
+![alt text](/django-chart-app.png)
